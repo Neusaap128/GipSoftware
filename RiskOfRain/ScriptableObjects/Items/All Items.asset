@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: All Items
+  m_EditorClassIdentifier: Assembly-CSharp:RiskOfRain:AllItems
+  allItems:
+  - {fileID: 11400000, guid: c888acb88b330dc4a9cf14172716cff6, type: 2}
+  - {fileID: 11400000, guid: 41d9c6955de3aa441b616b6b5d7dfd33, type: 2}
+  - {fileID: 11400000, guid: 91ed62cf2dfc45447b9eea599946dc44, type: 2}
+  - {fileID: 11400000, guid: 9c89921d43bef9549b10fd7ec9d876f1, type: 2}
+  - {fileID: 11400000, guid: eb54fecbfae48ef429d4901f99e70c10, type: 2}

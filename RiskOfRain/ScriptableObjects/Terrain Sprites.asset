@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7f9b8259be947b4f85497e50d08c7dd, type: 3}
+  m_Name: Terrain Sprites
+  m_EditorClassIdentifier: 
+  wallTileBase:
+    hasCollider: 1
+    sprite: {fileID: 11400000, guid: d7956315821bc7e429e65b59bb6618ec, type: 2}
+  blueTileBase:
+    hasCollider: 0
+    sprite: {fileID: 11400000, guid: c1951787d0eca2f4b8961db62d5c55d1, type: 2}
+  redTileBase:
+    hasCollider: 0
+    sprite: {fileID: 11400000, guid: 3bf253d6b4cecf54eb8515e3bfd534f0, type: 2}
+  greenTileBase:
+    hasCollider: 0
+    sprite: {fileID: 11400000, guid: 71112d6c02ce01f429a9c0da6c3909da, type: 2}
+  grassTileBase:
+    hasCollider: 0
+    sprite: {fileID: 11400000, guid: 5f8e38413b8a1f34d818ad2f7d58efbd, type: 2}
+  tallGrassTileBase:
+    hasCollider: 0
+    sprite: {fileID: 11400000, guid: 7b974a37e74eb0c4593751cb8994f4eb, type: 2}
+  explosiveBarrel: {fileID: 839734319801835645, guid: 16d6b49e24d27e34ca82fe2915afeb7a,
+    type: 3}
+  Portal: {fileID: 7729511746993162274, guid: 24c9502aed58df04fb22a6d1d9c89055, type: 3}
+  itemPickUp: {fileID: 7017504204296430383, guid: b028bea6c35523a4998abeaaa86c9a25,
+    type: 3}
